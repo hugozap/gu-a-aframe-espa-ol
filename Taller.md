@@ -49,7 +49,7 @@ Nota: Solo debe haber 1 elemento <a-assets> en la escena:
 ```html
 
  <a-assets>
-    <img id="sky" src="https://rawgit.com/hugozap/guia-aframe-esp/master/taller/recursos/imagenes/sky.jpg">
+    <img id="sky" src="https://cdn.jsdelivr.net/gh/hugozap/guia-aframe-esp@master/taller/recursos/imagenes/sky.jpg">
  </a-assets>
  ```
 
@@ -66,9 +66,9 @@ Nota: Solo debe haber 1 elemento <a-assets> en la escena:
 
 
 ```html
- <img id="plant1" src="https://rawgit.com/hugozap/guia-aframe-esp/master/taller/recursos/imagenes/plant1.jpg">
- <img id="plant2" src="https://rawgit.com/hugozap/guia-aframe-esp/master/taller/recursos/imagenes/plant2.jpg">
- <img id="plant3" src="https://rawgit.com/hugozap/guia-aframe-esp/master/taller/recursos/imagenes/plant3.jpg">
+ <img id="plant1" src="https://cdn.jsdelivr.net/gh/hugozap/guia-aframe-esp@master/taller/recursos/imagenes/plant1.jpg">
+ <img id="plant2" src="https://cdn.jsdelivr.net/gh/hugozap/guia-aframe-esp@master/taller/recursos/imagenes/plant2.jpg">
+ <img id="plant3" src="https://cdn.jsdelivr.net/gh/hugozap/guia-aframe-esp@master/taller/recursos/imagenes/plant3.jpg">
  ```
 4.1 Ahora asignemos las imágenes a algunos de los elementos de la escena.
 
@@ -99,7 +99,7 @@ Ahora vamos a agregar un modelo3D creado con MagicaVoxel.
 (Esto SOLO lo declara, no lo muestra)
 
 ```html
-<a-asset-item id="casa1" src="https://rawgit.com/hugozap/guia-aframe-esp/master/taller/recursos/modelos_hd/casa1.ply"></a-asset-item>
+<a-asset-item id="casa1" src="https://cdn.jsdelivr.net/gh/hugozap/guia-aframe-esp@master/taller/recursos/modelos_hd/casa1.ply"></a-asset-item>
 ```
 
 6.2 Ahora agregamos el elemento para que lo muestre
